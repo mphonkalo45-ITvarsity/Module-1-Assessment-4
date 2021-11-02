@@ -1,0 +1,45 @@
+table{
+    width: 950px;
+    
+    
+}
+
+th{
+    font-weight: 8000;
+    font-size: 20px;
+    font-style: normal;
+    font: bold;
+    background: lightblue;
+  
+     
+    }
+table, th, td {
+    border: :1px solid #0009;
+    border-collapse:collapse;
+   
+}
+caption{
+    text-align: center;
+    font-style: normal;
+    font-family: fantasy;
+    font-size: 25px;
+    text-decoration-line:underline;
+    
+}
+html{
+    background-color: antiquewhite;
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+h1{
+   
+    text-align:left;
+    font-size: 25px;  
+    text-decoration-line: underline;
+   
+}
+maquee{
+    scroll-behavior: auto;
+}
